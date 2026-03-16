@@ -1,50 +1,72 @@
-# Android_Website
+# Android Landing Page
 
-![Project Screenshot](/imagens/screenshot.png)
+## Live Demo
 
-## Project Overview
+https://rodrigomzanetti.github.io/android-landing-page/
 
-This is a simple project developed as part of the introductory **HTML and CSS3** course by Professor Guanabara (Curso em Vídeo - Brazil).  
-The project was created step by step as a learning model for beginner students, focusing on basic web structure, styling, and responsiveness.
+## Preview
+
+![Project Screenshot](./imagens/screenshot.png)
+
+## Overview
+
+Android Landing Page is a static website developed as part of the HTML and CSS course by Professor Gustavo Guanabara (Curso em Vídeo). The project was created as a learning exercise to practice basic web page structure, styling, and responsive layout techniques.
+
+The page presents information about Android in a structured layout, including images, text sections, and an embedded YouTube video.
 
 ## Features
 
-- Embeds YouTube videos into an HTML page
-- Uses CSS templates for visual customization
-- Implements basic responsive design for mobile and desktop devices
+- Structured landing page layout
+- Embedded YouTube video within the page
+- Responsive layout for mobile and desktop screens
+- Organized visual sections for content presentation
+- Clean typography and spacing
 
 ## Technologies Used
 
-- **HTML5** – page structure and semantic organization
-- **CSS3** – styling, layout, and responsive behavior
+- HTML5 – semantic structure and content organization
+- CSS3 – styling, layout, and responsive behavior
 
 ## Project Structure
 
-The project is organized to support both mobile and desktop layouts.  
-It includes a header and multiple sections to organize page content.  
-The main assets are the Android character images and an embedded YouTube video.
+android-landing-page/
+
+- index.html – main page markup
+- style.css – main stylesheet
+- imagens/ – project image assets
+- favicon.ico – browser tab icon
 
 ## How to Run the Project
 
-1. Clone the repository to your local machine
-2. Open the HTML file in any web browser
+- Clone the repository
+git clone https://github.com/RodrigoMZanetti/android-landing-page.git
 
-## Project Status
+- Navigate to the project folder
+cd android-landing-page
 
-✔️ Completed
+- Open the project
+Open **index.html** in your browser.
 
-## What I Learned 🧠
+## Status
 
-Through this project, I learned how to:
+Completed as part of HTML and CSS training.
 
-- Structure web pages using HTML
-- Style layouts with CSS
-- Apply basic responsive design principles
-- Embed images and videos into a webpage
+## What I Learned
 
-## Author 👤
+During this project I practiced:
 
-**Rodrigo Zanetti**  
-Project developed as a requirement to complete the introductory HTML and CSS course by Professor Guanabara (Curso em Vídeo - Brazil).
+- Structuring web pages using semantic HTML
+- Styling layouts with CSS
+- Applying basic responsive design principles
+- Embedding images and videos into a webpage
+- Organizing static front-end projects
 
-GitHub: https://github.com/RodrigoMZanetti
+## Author
+
+Rodrigo M. Zanetti
+
+GitHub  
+https://github.com/RodrigoMZanetti
+
+LinkedIn  
+https://www.linkedin.com/in/rodrigomzanetti
